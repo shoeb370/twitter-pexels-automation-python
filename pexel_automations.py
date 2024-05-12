@@ -141,7 +141,7 @@ def get_popular_video(pexel_api_key):
 # Main function to fetch a curated photo and a popular video based on the specified query.
 if __name__ == "__main__":
     query = 'seashore'
-    pexel_api_key = r'QxLl9CpTT7Op1kmOUTiRxoqro57YykqIXRXkJsKBM3zNbZompzoEPkFB'
+    pexel_api_key = 'API_KEY'
     get_curated_photo(pexel_api_key)
     get_popular_video(pexel_api_key)
     
