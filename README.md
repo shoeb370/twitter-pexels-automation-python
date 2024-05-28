@@ -43,7 +43,7 @@ The `post_tweet(tweet, file_name)` function in `post_tweet_v2.py` posts a tweet 
 ## Usage
 
 1. Ensure `config_tweet.ini` is correctly configured with your Twitter API credentials.
-2. Run the `rotten_tomatoes.py` script to fetch the latest movies from Rotten Tomatoes and post tweets about them on Twitter.
+2. Run the `pexel_automations.py` script to fetch the latest images and videos.
 
 
 ## Contributors
